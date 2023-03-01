@@ -6,8 +6,9 @@ using UnityEngine;
 public class CarMovement : MonoBehaviour
 {
     [SerializeField] private float _speed;
-    [SerializeField] private float maxX = 5;
-    [SerializeField] private float maxZ = 5;
+    [SerializeField] private float maxX = 5.0f;
+    [SerializeField] private float maxZ = 5.0f;
+
     // Start is called before the first frame update
     void Start()
     {

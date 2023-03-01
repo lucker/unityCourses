@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1A312CF8-94B4-B05A-8558-B00FC5D3A02D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6e39bdfc-5876-42ff-9ab1-dbd541b65c31" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CarMovement.cs">
+    <Files>
+      <File FileName="Assets/CarMovement.cs" Line="65" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lesson1-2" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
