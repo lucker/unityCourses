@@ -23,6 +23,7 @@ public class Window : MonoBehaviour
         _devicesButton.onClick.AddListener(OnDevicesButtonHandler);
         _aboutButton.onClick.AddListener(OnAboutButtonHandler);
         _helpAndSupportButton.onClick.AddListener(OnHelpAndSupportButtonHandler);
+        _languageDropdown.onValueChanged.AddListener(OnLanguageDropdownHandler);
     }
 
     // Update is called once per frame
@@ -64,6 +65,11 @@ public class Window : MonoBehaviour
     private void OnHelpAndSupportButtonHandler()
     {
         Debug.Log("On Help And Support Button");
+    }
+
+    private void OnLanguageDropdownHandler(int value)
+    {
+        Debug.Log($"On language Dropdown value {value}");
     }
 }
 
